@@ -5,7 +5,7 @@ Estou em busca da **minha primeira oportunidade profissional** como **estagiári
 
 ## 📸 Demonstração do Projeto
 
-![Demonstração do Projeto](https://github.com/natanael89/Cruso_Infinity/issues/1#issue-3040520138) <!-- Substitua pelo nome correto do seu GIF -->
+![Demonstração do Projeto](https://github.com/user-attachments/assets/7badbf57-1892-43f4-bd9d-aee7b4dd743f) <!-- Substitua pelo nome correto do seu GIF -->
 
 > 💡 Desenvolvido com foco em performance, animações fluidas e responsividade.
 
