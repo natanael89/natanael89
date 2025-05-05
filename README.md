@@ -5,7 +5,7 @@ Estou em busca da **minha primeira oportunidade profissional** como **estagiári
 
 ## 📸 Demonstração do Projeto
 
-![imagen](https://github.com/user-attachments/assets/7badbf57-1892-43f4-bd9d-aee7b4dd743f) <!-- Substitua pelo nome correto do seu GIF -->
+![Image](https://github.com/user-attachments/assets/7badbf57-1892-43f4-bd9d-aee7b4dd743f) <!-- Substitua pelo nome correto do seu GIF -->
 
 > 💡 Desenvolvido com foco em performance, animações fluidas e responsividade.
 
