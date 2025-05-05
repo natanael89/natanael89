@@ -1,49 +1,47 @@
-# Olá, eu sou Natanael 👋
+# 👋 Olá! Me chamo Natanael
 
-## Desenvolvedor Full Stack Apaixonado por Tecnologia
+Sou um **desenvolvedor web full stack autodidata**, com foco em **React, Node.js e MySQL**.  
+Estou em busca da **minha primeira oportunidade profissional** como **estagiário ou freelancer**.
 
-### Sobre mim
-🚀 Sou um desenvolvedor Full Stack com experiência em criar aplicações web completas e escaláveis.
-💡 Adoro resolver problemas complexos e aprender novas tecnologias.
-🌱 Sempre em busca de aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.
+## 🚀 Sobre mim
 
-### Tecnologias e Ferramentas
-#### Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- 🎯 Desenvolvo sistemas completos: e-commerce, painel admin, automações com WhatsApp, editores de e-mail e muito mais.
+- 💡 Sou apaixonado por aprender e aplicar novas tecnologias em projetos reais.
+- 🔧 Experiência prática com:
+  - React.js
+  - Node.js + Express
+  - MySQL / MongoDB
+  - Tailwind CSS
+  - Vercel / Netlify
 
-#### Back-end
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🧠 Em desenvolvimento
 
-#### Banco de Dados
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Atualmente estou estudando:
+- `C#` e `ASP.NET Core`
+- `Vue.js`
+- Arquitetura de software e boas práticas
+- Fundamentos de IA (Machine Learning, NLP)
+- SQL avançado (SQL Server e MySQL)
 
-#### Ferramentas e Outros
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+## 📁 Projetos em destaque
 
-### Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+| Projeto | Tecnologias | Link |
+|--------|-------------|------|
+| 💼 Painel Admin de Delivery com WhatsApp | React, Node.js, MySQL | [Ver projeto](https://link-do-projeto.com) |
+| ✉️ Editor de E-mails Integrado | React, Unlayer API, MySQL | [Ver projeto](https://link-do-projeto.com) |
+| 🛍️ E-commerce de Moda Responsivo | React, Tailwind, MongoDB | [Ver projeto](https://link-do-projeto.com) |
 
-### Projetos em Destaque
-- [Nome do Projeto](link_do_projeto): Breve descrição do projeto.
-- [Nome do Projeto](link_do_projeto): Breve descrição do projeto.
-- [Nome do Projeto](link_do_projeto): Breve descrição do projeto.
+> ✅ Todos os projetos estão com **README completo, online e organizados**
 
-### Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-c7-879568b7/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:natanaelc7gmail.com)
+## 📫 Como me encontrar
 
-### Contribuições
-📊 Número total de contribuições públicas: ![Contribuições](https://img.shields.io/github/contributions/seuusername?color=brightgreen)
+- 🔗 [Portfólio](https://novo-portfolio-ashy.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/natanael-carvalho-dos-santos-879568b7/)
+- 🐙 [GitHub](https://github.com/seu-usuario)
+- 📱 Instagram: @seuusuario.dev (caso deseje incluir)
 
 ---
 
-⭐️ Não se esqueça de dar uma estrela nos repositórios que você gostar! ⭐️
+Se você está procurando alguém dedicado, que aprende rápido e entrega resultados, ficarei feliz em fazer parte da sua equipe!
 
+---
