@@ -3,6 +3,12 @@
 Sou um **desenvolvedor web full stack autodidata**, com foco em **React, Node.js e MySQL**.  
 Estou em busca da **minha primeira oportunidade profissional** como **estagiário ou freelancer**.
 
+## 📸 Demonstração do Projeto
+
+![Demonstração do Projeto](./portfolio_preview.gif) <!-- Substitua pelo nome correto do seu GIF -->
+
+> 💡 Desenvolvido com foco em performance, animações fluidas e responsividade.
+
 ## 🚀 Sobre mim
 
 - 🎯 Desenvolvo sistemas completos: e-commerce, painel admin, automações com WhatsApp, editores de e-mail e muito mais.
@@ -38,7 +44,7 @@ Atualmente estou estudando:
 - 🔗 [Portfólio](https://novo-portfolio-ashy.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/natanael-carvalho-dos-santos-879568b7/)
 - 🐙 [GitHub](https://github.com/seu-usuario)
-- 📱 Instagram: @seuusuario.dev (caso deseje incluir)
+- 📱 [Instagram](https://www.instagram.com/natanael.fullstack/)
 
 ---
 
